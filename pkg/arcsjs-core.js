@@ -5,4 +5,4 @@
  * license that can be found in the LICENSE file.
  */
 
-export * from 'https://arcsjs.web.app/support/arcsjs-support.js';
+export * from 'https://arcsjs.web.app/0.0.1/core/arcsjs-core.js';

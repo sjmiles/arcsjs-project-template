@@ -7,7 +7,7 @@
 // low-level config is first
 import './config.js';
 // import arcsjs-core dependency
-export * from '../../env/arcsjs-core/arcsjs-core.js';
+export * from '../../arcsjs-core.js';
 // import support systems
 import {Paths, importModules} from '../../arcsjs-support.js';
 
